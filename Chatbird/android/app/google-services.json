@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "155261144171",
+    "project_id": "chatbird-chatting",
+    "storage_bucket": "chatbird-chatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155261144171:android:54648d1a7f299bd0e5752e",
+        "android_client_info": {
+          "package_name": "com.example.chatbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155261144171-imfbq1m0l6rsdprn8o6s44cet6diio8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbird",
+            "certificate_hash": "c1076ffe58f5cbff3d38ea088123b75d442deea3"
+          }
+        },
+        {
+          "client_id": "155261144171-hj3hgf155matnq4p1p40lcm5fagng6tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXnDjMFsbaWuBXUX7xFIWe1dQ8NHa6CkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155261144171-hj3hgf155matnq4p1p40lcm5fagng6tg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155261144171-48bonlcfbrckv9shku7f1pgfh6bssnom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatbird.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
