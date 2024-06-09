@@ -1,6 +1,6 @@
 # chatbird
 
-A new Flutter project.
+Starting of meking chatting Flutter project Application.
 
 ## Getting Started
 
